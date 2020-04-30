@@ -4,6 +4,6 @@
 ## 主程序文件:
 lianjia_hangzhou_2_5_rent.ipynb；
 ## 地理坐标转化文件:
-coordTransform_utils.py coord_converter.py
+coordTransform_utils.py coord_converter.py;
 ## 可视化文件和数据
 数据和可视化文件\house_rent_distributions.html 以链家杭州地铁2,5号线房源为例
